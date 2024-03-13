@@ -1,2 +1,2 @@
-# Asistencia4
-Esto es muy triste
+# Asistenciaapp
+Primer trabajo grupal de desarrollo de aplicaciones
